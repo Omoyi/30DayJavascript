@@ -1,1 +1,1 @@
-##30 Day Javascript course
+## 30 Day Javascript course
